@@ -1,6 +1,6 @@
 # ChaCha20Decoder
 ChaCha20Decoder permet de déchiffrer un message chiffré à partir des mêmes constantes qu'un autre message (plus long), dont on connaît la forme chiffrée et déchiffrée. Cette attaque est connue sous le nom two-time pad.
-Un article expliquant le procédé plus en détail est disponible à l'adresse suivante : https://0cmenog.github.io/posts/chacha20decoder/.
+Un article expliquant le procédé plus en détail est disponible à l'adresse suivante : https://0cmenog.github.io/posts/ChaCha20/.
 
 ChaCha20Decoder dispose de 3 modes : 
 1. Mode 1 : Retrouver le keystream à partir du message en clair et son message chiffré associé
